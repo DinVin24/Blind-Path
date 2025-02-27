@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Level
+comment0.text=\r\n\ Used\ to\ show\ the\ current\ level\ the\ player\ is\ at.\r\n\ \r\n\ @author\ \ Soltuzu\ Emanuel\ &\ Mandache\ Alexandru\ Nutu\r\n\ @version\ 22.02.2021\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

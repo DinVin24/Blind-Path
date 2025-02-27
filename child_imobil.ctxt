@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=child_imobil
+comment0.text=\r\n\ This\ is\ used\ to\ show\ the\ character\ in\ the\ "How\ To\ Play"\ screen\r\n\ \r\n\ @author\ Soltuzu\ Emanuel\ &\ Mandache\ Alexandru\ Nutu\r\n\ @version\ 22.02.2021\r\n
+comment1.params=caz
+comment1.target=child_imobil(int)
+comment1.text=\r\n\ Checks\ if\ the\ Actor\ is\ attacking,\ looking\ to\ the\ left\ or\ to\ the\ right\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moveLeft()
+comment3.text=\r\n\ Animates\ moving\ to\ the\ left\r\n
+comment4.params=
+comment4.target=void\ moveRight()
+comment4.text=\r\n\ Animates\ moving\ to\ the\ right\r\n
+comment5.params=
+comment5.target=void\ animateAttack()
+comment5.text=\r\n\ Animates\ attacking\r\n
+comment6.params=image\ w\ h
+comment6.target=greenfoot.GreenfootImage\ rescale(greenfoot.GreenfootImage,\ int,\ int)
+comment6.text=\r\n\ Rescales\ the\ image.\r\n
+numComments=7

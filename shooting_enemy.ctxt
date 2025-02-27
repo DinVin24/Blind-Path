@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=shooting_enemy
+comment0.text=\r\n\ This\ enemy\ can't\ move\ but\ instead\ shoots\ fireballs\ towards\ the\ player.\ If\ the\ player\ touches\ the\ enemy,\ they\ get\ damaged.\r\n\ \r\n\ @author\ Soltuzu\ Emanuel\ &\ Mandache\ Alexandru\ Nutu\r\n\ @version\ 22.02.2021\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ Shoot()
+comment2.text=\r\n\ After\ the\ cooldown\ is\ over,\ this\ Actor\ creates\ new\ Projectiles.\r\n\ This\ is\ also\ used\ to\ animate\ the\ Actor\ shooting\ the\ fireballs\r\n
+comment3.params=
+comment3.target=void\ lookAt()
+comment3.text=\r\n\ Makes\ the\ Actor\ look\ towards\ the\ player's\ direction\r\n
+comment4.params=
+comment4.target=void\ DEATH()
+comment4.text=\r\n\ Checks\ if\ this\ Actor\ got\ hit\ by\ the\ player's\ sword\ when\ its\ immunity\ state\ is\ over.\r\n
+numComments=5

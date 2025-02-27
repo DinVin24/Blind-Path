@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=howtoplay_scris
+comment0.text=\r\n\ This\ keeps\ all\ the\ text\ from\ the\ "How\ To\ Play"\ screen.\r\n\ \r\n\ @author\ Soltuzu\ Emanuel\ &\ Mandache\ Alexandru\ Nutu\r\n\ @version\ 22.02.2021\r\n
+comment1.params=caz
+comment1.target=howtoplay_scris(int)
+comment1.text=\r\n\ Check\ the\ type\ of\ text\ is\ used\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=image
+comment3.target=greenfoot.GreenfootImage\ rescale(greenfoot.GreenfootImage)
+comment3.text=\r\n\ Rescales\ the\ image\r\n
+numComments=4

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=screen_name
+comment0.text=\r\n\ This\ is\ the\ first\ screen\ that\ appears,\ and\ redirects\ to\ the\ main\ menu\ when\ you\ press\ SPACE\r\n\ \r\n\ @author\ Soltuzu\ Emanuel\ &\ Mandache\ Alexandru\ Nutu\r\n\ @version\ 22.02.2021\r\n
+comment1.params=
+comment1.target=screen_name()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ screen_name.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ prepare()
+numComments=4

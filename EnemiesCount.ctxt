@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EnemiesCount
+comment0.text=\r\n\ Used\ to\ show\ how\ many\ enemies\ there\ are\ left.\r\n\ \r\n\ @author\ Soltuzu\ Emanuel\ &\ Mandache\ Alexandru\ Nutu\r\n\ @version\ 22.02.2021\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ EnemiesCount\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

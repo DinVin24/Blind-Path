@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=HP
+comment0.text=\r\n\ Used\ to\ show\ how\ much\ health\ the\ player\ has\ left.\r\n\ \r\n\ @author\ \ Soltuzu\ Emanuel\ &\ Mandache\ Alexandru\ Nutu\r\n\ @version\ 22.02.2021\r\n
+comment1.params=type
+comment1.target=HP(int)
+comment1.text=\r\n\ Checks\ the\ type\ of\ the\ heart\ and\ uses\ the\ required\ image\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

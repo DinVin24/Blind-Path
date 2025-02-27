@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Sword
+comment0.text=\r\n\ This\ is\ just\ the\ hitbox\ of\ the\ player's\ sword.\r\n\ \r\n\ @author\ Soltuzu\ Emanuel\ &\ Mandache\ Alexandru\ Nutu\r\n\ @version\ 22.02.2021\r\n
+comment1.params=
+comment1.target=Sword()
+comment2.params=widht\ height\ angle
+comment2.target=Sword(int,\ int,\ int)
+comment2.text=\r\n\ Rescales\ the\ image\ and\ changes\ the\ angle.\r\n
+comment3.params=
+comment3.target=void\ act()
+numComments=4

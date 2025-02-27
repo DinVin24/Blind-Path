@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=gameover_scris
+comment0.text=\r\n\ This\ keeps\ all\ the\ text\ from\ the\ "Game\ Over"\ screen.\r\n\ \r\n\ @author\ Soltuzu\ Emanuel\ &\ Mandache\ Alexandru\ Nutu\r\n\ @version\ 22.02.2021\r\n
+comment1.params=type
+comment1.target=gameover_scris(int)
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ gameover_scris\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=image\ w\ h
+comment3.target=greenfoot.GreenfootImage\ rescale(greenfoot.GreenfootImage,\ int,\ int)
+comment3.text=\r\n\ Rescales\ the\ image\r\n
+numComments=4

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\n\ This\ enemy\ can\ only\ move\ towards\ the\ player\ and\ damage\ them\ by\ touching\ them.\r\n\ \r\n\ @author\ Soltuzu\ Emanuel\ &\ Mandache\ Alexandru\ Nutu\r\n\ @version\ 22.02.2021\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ moveToPlayer()
+comment2.text=\r\n\ Moves\ this\ Actor\ to\ the\ player's\ coordinates\r\n
+comment3.params=moveframe
+comment3.target=void\ movinganimation(int)
+comment3.text=\r\n\ Animates\ the\ movement\r\n
+comment4.params=
+comment4.target=boolean\ collidingUp()
+comment4.text=\r\n\ Checks\ if\ there's\ an\ obstacle\ above\ this\ Actor.\r\n
+comment5.params=
+comment5.target=boolean\ collidingDown()
+comment5.text=\r\n\ Checks\ if\ there's\ an\ obstacle\ below\ this\ Actor.\r\n
+comment6.params=
+comment6.target=boolean\ collidingLeft()
+comment6.text=\r\n\ Checks\ if\ there's\ an\ obstacle\ to\ the\ left\ of\ this\ Actor.\r\n
+comment7.params=
+comment7.target=boolean\ collidingRight()
+comment7.text=\r\n\ Checks\ if\ there's\ an\ obstacle\ to\ the\ right\ of\ this\ Actor\r\n
+comment8.params=
+comment8.target=void\ DEATH()
+comment8.text=\r\n\ Checks\ if\ this\ Actor\ got\ hit\ by\ the\ player's\ sword\ when\ its\ immunity\ state\ is\ over.\r\n
+numComments=9

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=howtoplay1
+comment0.text=\r\n\ This\ contains\ a\ basic\ guide\ on\ how\ to\ play\ the\ game\r\n\ \r\n\ @author\ \ Soltuzu\ Emanuel\ &\ Mandache\ Alexandru\ Nutu\r\n\ @version\ 22.02.2021\r\n
+comment1.params=
+comment1.target=howtoplay1()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ howtoplay1.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment2.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=3

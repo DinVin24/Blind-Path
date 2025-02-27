@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Wall
+comment0.text=\r\n\ The\ player\ and\ enemies\ can't\ go\ through\ this\ Actor.\r\n\ \r\n\ @author\ Soltuzu\ Emanuel\ &\ Mandache\ Alexandru\ Nutu\r\n\ @version\ 22.02.2021\r\n
+comment1.params=
+comment1.target=Wall()
+comment1.text=\r\n\ Sets\ the\ size\ of\ 50x50\ px.\r\n
+comment2.params=widht\ height
+comment2.target=Wall(int,\ int)
+comment2.text=\r\n\ Rescales\ the\ image.\r\n
+comment3.params=
+comment3.target=void\ act()
+numComments=4

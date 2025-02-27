@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ This\ class\ contains\ all\ the\ buttons\ in\ the\ game.\ They\ change\ if\ your\ mouse\ hovers\ over\ them.\r\n\ \r\n\ @author\ Soltuzu\ Emanuel\ &\ Mandache\ Alexandru\ Nutu\r\n\ @version\ 22.02.2021\r\n
+comment1.params=caz
+comment1.target=Button(int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Checks\ what\ type\ of\ button\ this\ Actor\ is,\ if\ the\ mouse\ is\ hovering\ over\ it\ and\ if\ it's\ pressed.\r\n
+comment3.params=image\ w\ h
+comment3.target=greenfoot.GreenfootImage\ rescale(greenfoot.GreenfootImage,\ int,\ int)
+comment3.text=\r\n\ This\ is\ used\ to\ rescale\ images\r\n
+numComments=4
